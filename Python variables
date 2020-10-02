@@ -1,0 +1,38 @@
+# this is a variable
+
+                  ---------------------
+                  Integer type Variable
+                  ---------------------
+
+          a = 5                        # where 'a' is a Datatype & '5' is a Datavalue
+          b = 7                        # (a & b) both are integer type variable
+
+          x = a+b                      # where we can add both datatype (a & b) 
+
+          Print(x)                     # the addition value of a & b.
+
+                ~~~~~~~~~~~~~~~~~~~~~~~~
+                12
+                ~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+# Let's see another type variable
+
+
+                  ---------------------
+                  String type Variable
+                  ---------------------
+
+          c = '5'                      # where 'c' is a Datatype & '5' is a character type value
+          d = '7'                      # (c & d) both are String type variable
+
+          y = c+d                      # where we can add both datatype (c & d) 
+
+          print(y)                     # the addition value of c & d.
+
+                ~~~~~~~~~~~~~~~~~~~~~~~~
+                57
+                ~~~~~~~~~~~~~~~~~~~~~~~~
+                
+                
+                
