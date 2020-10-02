@@ -9,7 +9,7 @@
 
           x = a+b                      # where we can add both datatype (a & b) 
 
-          Print(x)                     # the addition value of a & b.
+          print(x)                     # the addition value of a & b.
 
                 ~~~~~~~~~~~~~~~~~~~~~~~~
                 12
